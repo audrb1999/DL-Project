@@ -5,3 +5,5 @@
 1. Neural Network from scratch
 2. AlexNet 구현
 3. R-CNN 구현
+4. MobileNet 경량화
+5. 사용자 기반 캐릭터 생성 사이트
